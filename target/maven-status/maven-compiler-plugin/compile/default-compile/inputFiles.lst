@@ -1,0 +1,13 @@
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/security/CustomUserDetailsService.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/config/SecurityConfig.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/BoilerplateRestApiJavaSpringApplication.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/exception/GlobalExceptionHandler.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/dto/UserDTO.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/service/UserService.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/config/SwaggerConfig.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/security/JwtService.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/mapper/UserMapper.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/entity/User.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/repository/UserRepository.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/security/JwtAuthenticationFilter.java
+/Users/zevitsoft/Documents/project/boilerplate_rest_api_java_spring/src/main/java/com/example/controller/AuthController.java
